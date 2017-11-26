@@ -1,3 +1,3 @@
 # Test
 
-Learnning how Git Works!
+Learning how Git Works!
